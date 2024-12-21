@@ -1,0 +1,48 @@
+<header>
+
+    <form>
+  
+      Search <input type = "text" name = "search" />
+  
+      <div></div>
+      <br>
+      <br>
+  
+  
+  </form>
+  
+      <!-- Navbar -->
+    <nav>
+
+      <a href="acceuil">acceuil</a>
+
+      <a href="contact">contact</a>
+
+      <a href="menu">menu</a>
+      
+  
+   
+  </header>
+  
+<h1>contact us for any information :</h1>
+
+
+<nav>
+    <a href="https://www.instagram.com/gomycode.morocco/?hl=ar" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width:30px; height:30px;">
+    </a>
+    
+    <div></div>
+    <br>
+<br>
+<br>
+<a href="https://www.facebook.com/gomycode.ma/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="our facebook" style="width: 30; height: 30;">
+</a>
+</nav>
+<br>
+<br>
+<a href="tel = +212 763092947">call us : +212 763092947</a>
+<br>
+
+<a href="email :gomycode@gmail.com">email us : gomycode@gmail.com</a>
