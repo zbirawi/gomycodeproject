@@ -1,17 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+
+    <link rel="icon" href="https://gomycode.com/favicon.ico" type="image/x-icon">
+
+
 <header>
 
-    <form>
-  
-      Search <input type = "text" name = "search" />
-  
-      <div></div>
-      <br>
-      <br>
-  
-  
-  </form>
-  
-      <!-- Navbar -->
+    Search <input type = "text" name = "search" />
+
+    <div></div>
+    <br>
+    <br>
+
+
+</form>
+
+    <!-- Navbar -->
     <nav>
 
       <a href="acceuil">acceuil</a>
@@ -20,9 +30,9 @@
 
       <a href="menu">menu</a>
       
-  
-   
-  </header>
+    </nav>
+ 
+</header>
   
 <h1>contact us for any information :</h1>
 
@@ -37,7 +47,7 @@
 <br>
 <br>
 <a href="https://www.facebook.com/gomycode.ma/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="our facebook" style="width: 30; height: 30;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="our facebook" style="width: 30px; height: 30px;">
 </a>
 </nav>
 <br>
